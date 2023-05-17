@@ -27,7 +27,9 @@ THEN I am able to successfully create, update, and delete data in my database <b
 
 ## Walk Through Video
 
+https://github.com/bragceo/E-commerce-Backend-Template/assets/119948453/53e599b2-6811-4cb8-8a3f-3a6f141e8185
 
+https://github.com/bragceo/E-commerce-Backend-Template/assets/119948453/e17fb042-3f3d-407f-bb41-d62e8a5f53e7
 
 
 ## Github Repository
